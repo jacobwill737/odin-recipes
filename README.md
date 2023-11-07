@@ -1,0 +1,1 @@
+This will be my first full website using everything I have learned about html. This includes making lists, adding pictures, creating links, etc. This project is created just a few days into my coding journey. 
